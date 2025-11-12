@@ -83,7 +83,9 @@ def main():
     
     # Sauvegarde Parquet
     output_path = os.path.join(parquet_dir, "candidat.parquet")
-    df_long_total.to_parquet(output_path, index=False, engine='pyarrow')
+    # Compression Parquet avec snappt 
+    df_long_total.to_parquet(output_path, index=False, engine='pyarrow', compression='snappy')
+
     
     print(f"Pipeline terminé. Fichier sauvegardé : {output_path}")
 
