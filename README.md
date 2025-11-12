@@ -1,7 +1,7 @@
 # Analyse Électorale — Présidentielle France 2022
 
 Ce projet permet d'analyser les résultats des élections présidentielles françaises de 2022 (tour 1 et tour 2) par commune et département.  
-Les données proviennent de [DataGouv](https://www.data.gouv.fr/fr/](https://www.data.gouv.fr/) et sont transformées pour être visualisées facilement via une application **Streamlit**.
+Les données proviennent de [DataGouv](https://www.data.gouv.fr/) et sont transformées pour être visualisées facilement via une application **Streamlit**.
 
 
 ##  Fonctionnalités
