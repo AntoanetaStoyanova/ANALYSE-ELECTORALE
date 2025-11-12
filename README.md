@@ -23,8 +23,8 @@ Les données proviennent de [DataGouv](https://www.data.gouv.fr/fr/](https://www
 
 1. **Cloner le projet** 
 ```bash
-git clone https://github.com/ton-compte/analyse-electorale.git
-cd analyse-electorale
+git clone https://github.com/AntoanetaStoyanova/ANALYSE-ELECTORALE.git
+cd OpenData
 ```
 
 2. **Créer un environnement Python** 
